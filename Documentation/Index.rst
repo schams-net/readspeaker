@@ -34,3 +34,4 @@ ReadSpeaker - Online Text to Speech
 **Extension Manual**
 
    This documentation is for the TYPO3 extension EXT:readspeaker.
+   Testing.
