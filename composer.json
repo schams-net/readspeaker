@@ -1,0 +1,9 @@
+{
+  "name": "schams-net/readspeaker",
+  "type": "typo3-cms-extension",
+  "description": "ReadSpeaker - Online Text to Speech",
+  "license": "GPL-2.0-or-later",
+  "require": {
+    "typo3/cms-core": "^8.7"
+  }
+}
